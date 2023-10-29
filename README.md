@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **REACT Js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DishangMehta11](https://github.com/DishangMehta11)
+- 👨‍💻 Some of my projects are available at [https://github.com/DishangMehta11](https://github.com/DishangMehta11)
 
 - 💬 Ask me about **Python**
 
