@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dishangmehta11@duck.com**
 
-- 📄 Know about my experiences [https://dishangmehta11.me/resume](https://dishangmehta11.me/resume)
+- 📄 Know about my experiences [https://dishangmehta11.me/](https://dishangmehta11.me/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
