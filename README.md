@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishangmehta11&label=Profile%20views&color=0e75b6&style=flat" alt="dishangmehta11" /> </p>
 
-- 🔭 I’m currently working on [my Portfolio Website](https://dishangmehta11.me)
+- 🔭 I’m currently working on [my Portfolio Website](https://dishangmehta.me)
 
-- 🌱 I’m currently learning **REACT Js**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 Some of my projects are available at [https://github.com/DishangMehta11](https://github.com/DishangMehta11)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dishangmehta11@duck.com**
 
-- 📄 Know about my experiences [https://dishangmehta11.me](https://dishangmehta11.me)
+- 📄 Know about my experiences [https://dishangmehta.me](https://dishangmehta.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
