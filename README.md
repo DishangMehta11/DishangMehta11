@@ -32,3 +32,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dishangmehta11&show_icons=true&locale=en&layout=compact" alt="dishangmehta11" /></p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DishangMehta11/DishangMehta11/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DishangMehta11/DishangMehta11/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DishangMehta11/DishangMehta11/output/github-snake.svg" />
+</picture>
+
