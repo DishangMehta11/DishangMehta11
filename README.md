@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **dishangmehta11@duck.com**
+- 📫 How to reach me **dishangmehta12@gmail.com**
 
 - 📄 Know about my experiences [https://dishangmehta.me](https://dishangmehta.me)
 
