@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishangmehta11&label=Profile%20views&color=0e75b6&style=flat" alt="dishangmehta11" /> </p>
 
-- 🔭 I’m currently working on [Patinet Management System](https://gulabclinic.dishangmehta12.me)
+- 🔭 I’m currently working on [Patient Management System](https://gulabclinic.dishangmehta12.me)
 
 - 🌱 I’m currently learning **Spring Boot**
 
