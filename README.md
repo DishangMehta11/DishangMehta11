@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dishangmehta12@gmail.com**
 
-- 📄 Know about my experiences [https://dishangmehta.me](https://dishangmehta.me)
+- 📄 Know about my experiences [https://dishangmehta12.me](https://dishangmehta12.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
