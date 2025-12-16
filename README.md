@@ -9,7 +9,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://github.com/DishangMehta11](https://github.com/DishangMehta11)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **MicroServices**
 
 - 📫 How to reach me **dishangmehta12@gmail.com**
 
